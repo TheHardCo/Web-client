@@ -32,3 +32,18 @@ textarea {
   width: 100%;
   outline: none;
 }
+
+.buttn {
+  float: right;
+  width: 20%;
+}
+
+button {
+  display: block;
+  margin: 10px;
+}
+
+.mode {
+  float: left;
+  width: 40%;
+}
